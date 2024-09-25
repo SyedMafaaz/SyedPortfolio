@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SyedPortfolio/static/css/main.fc8ac8c1.css",
+    "main.js": "/SyedPortfolio/static/js/main.b9ea847b.js",
+    "static/js/453.83234151.chunk.js": "/SyedPortfolio/static/js/453.83234151.chunk.js",
+    "index.html": "/SyedPortfolio/index.html",
+    "main.fc8ac8c1.css.map": "/SyedPortfolio/static/css/main.fc8ac8c1.css.map",
+    "main.b9ea847b.js.map": "/SyedPortfolio/static/js/main.b9ea847b.js.map",
+    "453.83234151.chunk.js.map": "/SyedPortfolio/static/js/453.83234151.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc8ac8c1.css",
+    "static/js/main.b9ea847b.js"
+  ]
+}
